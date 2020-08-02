@@ -6,4 +6,4 @@ This is was made with python and written in less than 25 lines. This is a very s
 Python
 # Contact Info
 Email: sainiinder946@gmail.com
-Discord: TwitchBrutus#5987
+Discord: NX Brutus#5987
